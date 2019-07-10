@@ -6,7 +6,7 @@ This example is build around the Warp10 revision 2.0.2-44. Those scripts works a
 
 ```
 export WARP10_REVISION = 2.0.2-44
-wget https://dl.bintray.com/cityzendata/generic/io/warp10/warp10/$WARP10_REVISION/warp10-$WARP10_REVISION.tar.gz
+wget https://dl.bintray.com/senx/generic/io/warp10/warp10/$WARP10_REVISION/warp10-$WARP10_REVISION.tar.gz
 ```
 
 Extract Warp 10 in a new directory
