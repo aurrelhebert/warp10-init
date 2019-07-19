@@ -1,4 +1,4 @@
-# Ubuntu warp 10 set-up
+# Unix warp 10 set-up
 
 ## Download Warp_10 jar
 
